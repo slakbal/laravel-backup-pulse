@@ -1,12 +1,11 @@
 {
-    "name": "monteirofutila/laravel-backup-pulse",
+    "name": "slakbal/laravel-backup-pulse",
     "description": "A Laravel Pulse card to monitor the health of the backups, and show an overview of all backups",
     "keywords": [
-        "Monteiro Futila",
         "laravel",
         "laravel-backup-pulse"
     ],
-    "homepage": "https://github.com/monteirofutila/laravel-backup-pulse",
+    "homepage": "https://github.com/slakbal/laravel-backup-pulse",
     "license": "MIT",
     "authors": [
         {
